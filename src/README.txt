@@ -68,8 +68,7 @@ Bot-rtrw-net/
 GETTING STARTED (LOCAL SETUP)
 -----------------------------------------------------------------
 1. Clone the repository:
-   git clone https://github.com/username/bot-rtrw-net.git
-
+   git clone https://github.com/jimmyrmdn29/Autonomous-Whatsapp-AI-ORchestrator
 2. Install dependencies:
    npm install
 
