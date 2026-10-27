@@ -1,0 +1,25 @@
+{
+  "name": "projek-wifi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test:ai": "node src/ai/testGemini.js",
+    "test:sheets": "node src/services/testSheets.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@langchain/core": "^1.3.0",
+    "@langchain/google-genai": "^2.3.4",
+    "dotenv": "^18.0.9",
+    "googleapis": "^188.0.0",
+    "langchain": "^1.5.19",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.7",
+    "zod": "^4.6.7"
+  }
+}
